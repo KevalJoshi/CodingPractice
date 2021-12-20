@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Documents\\APL Assignments"
+		},
+		{
+			"path": "..\\..\\Documents\\Typescript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "APL Assignments"
+	}
+}
