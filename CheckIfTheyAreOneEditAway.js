@@ -1,8 +1,4 @@
-<html>
-    <head>
-    </head>
-    <body>
-        <script>
+
             function IfTheyAreOneEditAway(str1,str2){
                 var strln1 = str1.length;
                 var strln2 = str2.length;
@@ -41,7 +37,3 @@
            console.log(IfTheyAreOneEditAway("pales","pale"));
            console.log(IfTheyAreOneEditAway("pale","bale"));
            console.log(IfTheyAreOneEditAway("pale","bake"));
-
-        </script>
-    </body>
-</html>

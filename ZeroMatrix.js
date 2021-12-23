@@ -1,9 +1,4 @@
-<html>
-    <head>
-        <title></title>
-    </head>
-    <body>
-        <script>
+
             function setZeros(matrix){
                 let i, j;
                 let index = [];
@@ -33,6 +28,4 @@
                           [ 9, 0, 11, 12 ],
                           [ 13, 14, 15, 16 ]];
                          console.log(setZeros(matrix));
-        </script>
-    </body>
-</html>
+        

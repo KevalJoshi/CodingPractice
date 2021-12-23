@@ -1,7 +1,4 @@
-<html>
-    <head>
-        <body>
-            <script>               
+             
                 function checkForUniqueCharacters(str){
                     var strSet = new Set(str); // Time Complexity = O(n) where n is length of str
 
@@ -15,7 +12,4 @@
             
             var hasUniqueCharacters = checkForUniqueCharacters("milin");
             console.log(hasUniqueCharacters);
-            </script>
-        </body>
-    </head>
-</html>
+          

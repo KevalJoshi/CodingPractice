@@ -1,7 +1,4 @@
-<html>
-    <head>
-        <body>
-            <script>
+
                 function StringCompression(str){
                     if(str.length == 0){
                         return false;
@@ -23,7 +20,4 @@
                     }
                 }
                 console.log(StringCompression("aabb"));
-            </script>
-        </body>
-    </head>
-</html>
+            

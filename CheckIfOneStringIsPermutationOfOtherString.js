@@ -1,7 +1,4 @@
-<html>
-    <head></head>
-        <body>
-            <script>
+
                 function checkIfOneStringIsPermutationOfOtherString(str1,str2){
                     if(str1.length != str2.length){
                         return false;
@@ -21,6 +18,4 @@
 
                 var isPermutationOrNot = checkIfOneStringIsPermutationOfOtherString("keval","lavek");
                 console.log(isPermutationOrNot);
-            </script>
-        </body>
-</html>
+            

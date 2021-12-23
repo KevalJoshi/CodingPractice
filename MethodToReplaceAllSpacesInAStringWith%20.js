@@ -1,7 +1,4 @@
-<html>
-    <head></head>
-    <body>
-        <script>
+
         function replaceString(str, length){
             const strArr = Array.from(str);
             var spaceCount = 0;
@@ -34,6 +31,4 @@
 
                 var replace = replaceString("Mr John Smith is liar        ",21);
                 console.log(replace);
-            </script>
-    </body>
-</html>
+          

@@ -1,7 +1,4 @@
-<html>
-    <head>
-        <body>
-            <script>
+
                 function checkForUniqueCharacters(str){
                     const strArr = Array.from(str);
                     strArr.sort();
@@ -17,7 +14,3 @@
             var hasUniqueCharacters = checkForUniqueCharacters("keval");
             console.log(hasUniqueCharacters);
             
-            </script>
-        </body>
-    </head>
-</html>

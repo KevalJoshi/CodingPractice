@@ -1,7 +1,4 @@
-<html>
-    <head></head>
-    <body>
-        <script>
+
             function isPalindrome(str){
                  const charCount = {} 
                     str = str.toLowerCase();  
@@ -26,6 +23,4 @@
             console.log(isPalindrome("tenet"));
             console.log(isPalindrome("taco cat"));
             
-        </script>
-    </body>
-</html>
+        
